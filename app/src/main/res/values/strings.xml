@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VolumeKubus_UTS</string>
+    <string name="button">Hitung Volume dan Luas</string>
+    <string name="name">Masukkan panjang sisi kubus</string>
+    <string name="textview">Hasil</string>
+    <string name="volume_text">Volume: %1$.2f</string>
+    <string name="luas_text">Luas Permukaan: %1$.2f</string>
+</resources>
